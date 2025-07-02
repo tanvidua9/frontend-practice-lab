@@ -1,0 +1,65 @@
+.d-flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.font-purple {
+  color: #663399;
+}
+.bg-purple {
+  background: #663399;
+}
+.bg-white {
+  background: white;
+}
+.bg-light-grey {
+  background-color: #f9fafb; 
+}
+
+.font-white {
+  color: white;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-20{
+  padding:20px;
+}
+.border {
+  border: none;
+  border-radius: 5px;
+}
+.width-50 {
+  width: 50%;
+}
+.height-auto {
+  height: auto;
+}
+.height-400 {
+  height: 400px;
+}
+.full-height {
+  height: 100vh;
+}
+.text-left {
+  text-align: left;
+}
+.font-weight{
+  font-weight:700;
+}
+.gap-5{
+  gap:5px;
+}
+.big-font{
+  font-size:45px;
+}
+.justify-center {
+  justify-content: center;
+}
+.mg-bottom{
+  margin-bottom:2px;
+}
+.align-center{
+  align-items:center;
+}
