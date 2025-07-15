@@ -1,0 +1,39 @@
+.bg-green {
+  background-color: green;
+}
+
+.border-black {
+  border: 8px solid black;
+}
+
+.border-dot-black {
+  border: 3px dotted black;
+}
+
+.p-sm {
+  padding: 10px;
+}
+
+.p-md {
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-xl {
+  font-size: 30px;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.height{
+    height:400px;
+}
