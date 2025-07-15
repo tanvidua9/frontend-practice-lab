@@ -1,0 +1,23 @@
+.bg-yellow {
+  background-color: yellow;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-red {
+  color: red;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.text-xl {
+  font-size: 40px;
+}
+
+.p-sm {
+  padding: 10px;
+}
